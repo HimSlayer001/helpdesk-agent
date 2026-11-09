@@ -1,0 +1,9 @@
+[project]
+name = "helpdesk-agent"
+version = "0.1.0"
+description = "IT helpdesk agent: RAG over an IT knowledge base + tool calling on local LLMs (Ollama)"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

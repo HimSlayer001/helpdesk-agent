@@ -1,0 +1,8 @@
+{
+  "vpn": {"status": "operational", "note": ""},
+  "email": {"status": "operational", "note": ""},
+  "slack": {"status": "degraded", "note": "Message delivery delays in APAC; fix in progress."},
+  "jira": {"status": "operational", "note": ""},
+  "github": {"status": "operational", "note": ""},
+  "salesforce": {"status": "maintenance", "note": "Scheduled maintenance Saturday 02:00-04:00 IST."}
+}

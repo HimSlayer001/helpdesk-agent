@@ -1,0 +1,25 @@
+{"question": "My VPN says gateway not responding, what should I do?", "expected_source": "vpn.md", "expected_tool": null}
+{"question": "I get a certificate error when connecting to GlobalConnect", "expected_source": "vpn.md", "expected_tool": null}
+{"question": "VPN is connected but internal websites won't open", "expected_source": "vpn.md", "expected_tool": null}
+{"question": "How do I install the VPN client on my Mac?", "expected_source": "vpn.md", "expected_tool": null}
+{"question": "I forgot my password, how do I reset it?", "expected_source": "password_reset.md", "expected_tool": null}
+{"question": "How long does a locked account stay locked?", "expected_source": "password_reset.md", "expected_tool": null}
+{"question": "I'm locked out and need access right now for a customer call, employee ID 48213", "expected_source": "password_reset.md", "expected_tool": "create_ticket"}
+{"question": "How often do passwords expire?", "expected_source": "password_reset.md", "expected_tool": null}
+{"question": "I got a new phone, how do I move my authenticator?", "expected_source": "mfa.md", "expected_tool": null}
+{"question": "I lost my phone and have no trusted device to re-register MFA", "expected_source": "mfa.md", "expected_tool": "create_ticket"}
+{"question": "Push notifications from the authenticator aren't arriving", "expected_source": "mfa.md", "expected_tool": null}
+{"question": "My laptop screen is cracked", "expected_source": "laptop.md", "expected_tool": "create_ticket"}
+{"question": "My disk is full, what can I delete?", "expected_source": "laptop.md", "expected_tool": null}
+{"question": "What happens when I first turn on my new laptop?", "expected_source": "laptop.md", "expected_tool": null}
+{"question": "I need Postman installed but it isn't in Self-Service", "expected_source": "software.md", "expected_tool": "create_ticket"}
+{"question": "How long does a security review of new software take?", "expected_source": "software.md", "expected_tool": null}
+{"question": "I think I got a phishing email, what do I do?", "expected_source": "phishing.md", "expected_tool": null}
+{"question": "I clicked a link in a suspicious email and typed my password", "expected_source": "phishing.md", "expected_tool": "create_ticket"}
+{"question": "My laptop was stolen from my car", "expected_source": "phishing.md", "expected_tool": "create_ticket"}
+{"question": "I need access to the Salesforce sales-ops group", "expected_source": "access.md", "expected_tool": "create_ticket"}
+{"question": "What do I need before I can be added to the GitHub organisation?", "expected_source": "access.md", "expected_tool": null}
+{"question": "How do I print on the office printers?", "expected_source": "wifi_printer.md", "expected_tool": null}
+{"question": "What is the guest Wi-Fi network?", "expected_source": "wifi_printer.md", "expected_tool": null}
+{"question": "Is Slack down? My messages are taking ages to send", "expected_source": null, "expected_tool": "check_service_status"}
+{"question": "Is Salesforce under maintenance this weekend?", "expected_source": null, "expected_tool": "check_service_status"}
